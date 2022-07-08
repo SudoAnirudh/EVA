@@ -21,11 +21,11 @@ exports.run = {
          rowId: `${isPrefix}menutype 4`,
          description: ``
       }]
-      let text = 'An autonomous program on the internet or another network that can interact with systems or users.\n\n'
+      let text = 'IAM EVA..A POWERFUL WHATSAPP BOT.\n\n'
       text += '◦ *Database* : PostgreSQL\n'
       text += '◦ *Library* : Baileys v4.3.0\n'
-      text += '◦ *Rest API* : https://api.nxr.my.id\n'
-      text += '◦ *Source* : https://github.com/neoxr/neoxr-bot *(v2.2.0)*\n\n'
+      text += '◦ *Owner Insta* : https://www.instagram.com/ani._.rudh_s/\n'
+      text += '◦ *Source* : https://github.com/SudoAnirudh/Eva-Md *(v2.2.0)*\n\n'
       text += 'If you find an error or want to upgrade premium plan contact the owner.'
       await client.sendList(m.chat, '', text, '', 'Tap!', [{
          rows

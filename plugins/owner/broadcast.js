@@ -12,8 +12,8 @@ exports.run = {
          if (command == 'bc') {
             let buttons = [{
                urlButton: {
-                  displayText: `Rest API`,
-                  url: `https://api.neoxr.my.id`
+                  displayText: `Owner Insta`,
+                  url: `https://www.instagram.com/ani._.rudh_s/`
                }
             }]
             if (text) {
