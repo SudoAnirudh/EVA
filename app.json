@@ -1,0 +1,7 @@
+{
+  "name": "eva",
+  "description": "WhatsApp Bot Using Library Baileys Multi Device",
+  "repository": "https://github.com/SudoAnirudh/Eva",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsappbot", "eva-bot"]
+}
