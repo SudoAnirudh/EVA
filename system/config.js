@@ -13,14 +13,14 @@ global.timer = 1800000
 // Symbols that are excluded when adding a prefix (Don't change it)
 global.evaluate_chars = ['=>', '~>', '<', '>', '$']
 // Country code that will be automatically blocked by the system, when sending messages in private chat
-global.blocks = ['00', '00']
+global.blocks = []
 // Put target jid to forward friends story
 global.forwards = '919539102851@c.us'
 // Get neoxr apikey by registering at https://api.nxr.my.id
 global.Api = new (require('./neoxrApi'))('q7nMK1')
 // Get bid and key configuration for autoreply chat ai feature by registering at https://brainshop.ai
-global.chatai_bid = '164728'
-global.chatai_key = 'MKPsfkgXLZPGrWoH'
+global.chatai_bid = '157462'
+global.chatai_key = 'KURCXcoi0PgVrZ3G'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
