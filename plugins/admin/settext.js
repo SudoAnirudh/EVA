@@ -17,7 +17,6 @@ exports.run = {
          await client.reply(m.chat, Func.texted('bold', `🚩 Successfully set.`), m)
       }
    },
-   owner: true,
    admin: true
 }
 

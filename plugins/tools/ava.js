@@ -28,6 +28,5 @@ exports.run = {
    },
    error: false,
    cache: true,
-   owner: true,
    location: __filename
 }

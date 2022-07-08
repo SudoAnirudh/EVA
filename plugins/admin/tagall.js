@@ -16,6 +16,5 @@ exports.run = {
       }
    },
    admin: true,
-   owner: true,
    group: true
 }

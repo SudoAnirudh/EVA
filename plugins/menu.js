@@ -26,11 +26,10 @@ exports.run = {
       text += '◦ *Library* : Baileys v4.3.0\n'
       text += '◦ *Owner Insta* : https://www.instagram.com/ani._.rudh_s/\n'
       text += '◦ *Source* : https://github.com/SudoAnirudh/Eva-Md *(v2.2.0)*\n\n'
-      text += 'CONTACT OWNER IF THERE IS ANY ERRORS..THANK YOU.'
-      await client.sendList(m.chat, '', text, '', 'Click Here!', [{
+      text += 'If you find an error or want to upgrade premium plan contact the owner.'
+      await client.sendList(m.chat, '', text, '', 'Tap!', [{
          rows
       }], m)
    },
-   owner: true,
    error: false
 }

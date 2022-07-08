@@ -26,6 +26,5 @@ exports.run = {
          return client.reply(m.chat, Func.jsonFormat(e), m)
       }
    },
-   owner: true,
    group: true
 }

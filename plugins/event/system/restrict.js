@@ -16,7 +16,6 @@ exports.run = {
    },
    error: false,
    private: true,
-   owner: true,
    cache: true,
    location: __filename
 }

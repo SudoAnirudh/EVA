@@ -21,6 +21,5 @@ exports.run = {
          return client.reply(m.chat, Func.texted('bold', e.message), m)
       }
    },
-   owner: true,
    error: false
 }

@@ -1,5 +1,5 @@
 const moment = require('moment-timezone')
-moment.tz.setDefault('Asia/Kolkata').locale('en')
+moment.tz.setDefault('Asia/Jakarta').locale('id')
 exports.run = {
    usage: ['cmdstic', '+cmdstic', '-cmdstic'],
    async: async (m, {

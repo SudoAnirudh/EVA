@@ -11,7 +11,6 @@ exports.run = {
       if (option == 3) return client.reply(m.chat, submenu3(isPrefix), m)
       if (option == 4) return client.reply(m.chat, submenu4(isPrefix), m)
    },
-   owner: true,
    error: false
 }
 

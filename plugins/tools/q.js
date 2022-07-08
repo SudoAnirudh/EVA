@@ -13,7 +13,6 @@ exports.run = {
       }
    },
    error: false,
-   owner: true,
    cache: true,
    location: __filename
 }

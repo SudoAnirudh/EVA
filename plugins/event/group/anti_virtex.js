@@ -12,7 +12,6 @@ exports.run = {
    },
    error: false,
    group: true,
-   owner: true,
    botAdmin: true,
    cache: true,
    location: __filename
