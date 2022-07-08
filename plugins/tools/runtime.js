@@ -7,5 +7,6 @@ exports.run = {
       let uptime = Func.toTime(_uptime)
       client.reply(m.chat, Func.texted('bold', `Running for : [ ${uptime} ]`), m)
    },
+   owner: true,
    error: false
 }

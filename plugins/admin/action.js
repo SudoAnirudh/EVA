@@ -23,6 +23,7 @@ exports.run = {
       }
    },
    group: true,
+   owner: true,
    admin: true,
    botAdmin: true
 }

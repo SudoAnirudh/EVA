@@ -10,7 +10,7 @@ const { fromBuffer } = require('file-type')
 const { green, blueBright, redBright } = require('chalk')
 const { tmpdir } = require('os')
 const moment = require('moment-timezone')
-moment.tz.setDefault('Asia/Jakarta').locale('id')
+moment.tz.setDefault('Asia/Kolkata').locale('en')
 
 module.exports = class Function {
 	/* Delay

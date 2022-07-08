@@ -40,5 +40,6 @@ exports.run = {
       }
    },
    limit: true,
+   owner: true,
    download: true
 }

@@ -8,7 +8,7 @@ let {
 } = require('chalk')
 let fs = require('fs')
 let moment = require('moment-timezone')
-moment.tz.setDefault('Asia/Kolkata').locale('id')
+moment.tz.setDefault('Asia/Kolkata').locale('en')
 
 module.exports = async (client, m, myPrefix) => {
    let who = m.fromMe ? 'Self' : m.pushName || 'No Name'
