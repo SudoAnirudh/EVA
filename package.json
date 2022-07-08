@@ -12,7 +12,7 @@
    },
    "repository":{
       "type":"git",
-      "url":"git+.git"
+      "url":"git+https://github.com/SudoAnirudh/EVA.git"
    },
    "keywords":[
       "wabot-md"
@@ -20,7 +20,7 @@
    "author":"SudoAnirudh",
    "license":"ISC",
    "dependencies":{
-      "@adiwajshing/baileys":"git+ssh://git@github.com/adiwajshing/baileys.git#d00aed7ff5560e10d8224d7fb443243fecbbaee5",
+      "@adiwajshing/baileys":"git+ssh://git@github.com/adiwajshing/baileys",
       "@adiwajshing/keyed-db": "^0.2.4",
       "@colors/colors":"1.5.0",
       "awesome-phonenumber":"~2.59.0",
@@ -50,7 +50,7 @@
       "youtube-sr": "^4.1.17"
    },
    "bugs":{
-      "url":"/issues"
+      "url":"https://github.com/SudoAnirudh/EVA/issues"
    },
-   "homepage":"#readme"
+   "homepage":"https://github.com/SudoAnirudh/EVA#readme"
 }
